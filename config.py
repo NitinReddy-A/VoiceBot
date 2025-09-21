@@ -6,8 +6,12 @@ Contains all constants, settings, and system prompts.
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
+# Load environment variables (only for local development)
+# This will be ignored in Streamlit Cloud deployment
+try:
+    load_dotenv()
+except:
+    pass  # Ignore if .env file doesn't exist (e.g., in cloud deployment)
 
 # Audio recording configuration
 SAMPLE_RATE = 16000
