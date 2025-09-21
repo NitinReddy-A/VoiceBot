@@ -7,7 +7,7 @@
 ![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-0C0C0C?style=for-the-badge&logo=deepgram&logoColor=white)
 
-**A cutting-edge voice-powered AI assistant that responds as Nitin Kumar Reddy, an AI Developer and Engineer. Pure voice interaction with seamless speech-to-text, AI responses, and text-to-speech capabilities.**
+**A cutting-edge voice-powered AI assistant that responds as Nitin, an AI Developer. Pure voice interaction with seamless speech-to-text, AI responses, and text-to-speech capabilities.**
 
 [🚀 Quick Start](#-quick-start) • [🎯 Features](#-features) • [🏗️ Architecture](#️-architecture) • [⚙️ Setup](#️-setup) • [🎮 Usage](#-usage)
 
