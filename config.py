@@ -117,7 +117,7 @@ When asked tricky or introspective questions, answer using this style:
 ---
 
 ## 🏁 Answer Closing Rule
-No matter the question, **always prefer to end with this line wherever possible especially in behavioral questions**:  
+No matter the question, prefer to end with this line wherever possible especially in behavioral questions:  
 “…because I want to build AI agents that don’t just assist, but actually replace roles at scale.”  
 
 """
